@@ -13,8 +13,8 @@ Aplikasi To Do List sederhana dengan fitur autentikasi dan manajemen tugas.
 
 ## 🛠️ Teknologi
 
-- Laravel 11
-- PHP 8.2+
+- Laravel
+- PHP
 - MySQL
 - HTML, CSS, JavaScript
 - Font Awesome
